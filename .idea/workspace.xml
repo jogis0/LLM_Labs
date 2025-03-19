@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="864daa95-eace-4419-990c-3b50dd3097e7" name="Changes" comment="Added axis labels and title, changed the slides">
-      <change afterPath="$PROJECT_DIR$/Homework2/homework2.1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Articles/Article5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Articles/Article5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/homework2.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/homework2.1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,10 @@
       <workItem from="1740390501817" duration="41000" />
       <workItem from="1742232146087" duration="2596000" />
       <workItem from="1742320245776" duration="7592000" />
-      <workItem from="1742387201837" duration="1696000" />
+      <workItem from="1742387201837" duration="1717000" />
+      <workItem from="1742397178149" duration="1631000" />
+      <workItem from="1742403502715" duration="3986000" />
+      <workItem from="1742411767340" duration="5036000" />
     </task>
     <task id="LOCAL−00001" summary="Initial">
       <option name="closed" value="true" />
@@ -121,7 +122,14 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1740332418902</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Added axis labels and title, changed the slides">
+      <option name="closed" value="true" />
+      <created>1742392220509</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1742392220509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
