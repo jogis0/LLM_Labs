@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="864daa95-eace-4419-990c-3b50dd3097e7" name="Changes" comment="Homework 1.2 ir 1.3">
+    <list default="true" id="864daa95-eace-4419-990c-3b50dd3097e7" name="Changes" comment="Added axis labels and title, changed the slides">
+      <change afterPath="$PROJECT_DIR$/Homework2/homework2.1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/LLM_Homework_1_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/LLM_Homework_1_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/LLM_Homework_1_3.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Articles/Article5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Articles/Article5.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,7 +94,11 @@
       <option name="presentableId" value="Default" />
       <updated>1740327891728</updated>
       <workItem from="1740327894273" duration="3816000" />
-      <workItem from="1740331737416" duration="631000" />
+      <workItem from="1740331737416" duration="789000" />
+      <workItem from="1740390501817" duration="41000" />
+      <workItem from="1742232146087" duration="2596000" />
+      <workItem from="1742320245776" duration="7592000" />
+      <workItem from="1742387201837" duration="1696000" />
     </task>
     <task id="LOCAL−00001" summary="Initial">
       <option name="closed" value="true" />
@@ -101,7 +114,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1740331645685</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Added axis labels and title, changed the slides">
+      <option name="closed" value="true" />
+      <created>1740332418902</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1740332418902</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
     <MESSAGE value="Homework 1.2 ir 1.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 1.2 ir 1.3" />
+    <MESSAGE value="Added axis labels and title, changed the slides" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added axis labels and title, changed the slides" />
   </component>
 </project>
